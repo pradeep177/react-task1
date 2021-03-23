@@ -1,0 +1,23 @@
+.slider{
+    border: 1px solid gainsboro;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 273px;
+    padding-left: 12px;
+}
+
+.slider:hover {
+border: 1px solid blue;
+
+}
+
+.searchbar{
+    padding-left: 10px;
+    width: 400px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left: 35%;
+    outline: none;      
+}
